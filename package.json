@@ -1,6 +1,6 @@
 {
   "name": "mochi-bootstrap",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Bootstrap adapter for Mochi",
   "main": "index.js",
   "repository": {
