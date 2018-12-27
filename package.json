@@ -1,0 +1,22 @@
+{
+  "name": "mochi-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap adapter for Mochi",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochijs/mochi-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochijs/mochi-bootstrap/issues"
+  },
+  "homepage": "https://github.com/mochijs/mochi-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}
